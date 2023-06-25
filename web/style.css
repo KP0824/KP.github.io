@@ -1,0 +1,31 @@
+div｛
+     text-aline:  center;
+     ｝
+     /* モバイルに対応したレスポンシブなCSS */
+.container {
+    max-width: 100%;
+    padding: 0 20px;
+  }
+  
+  .feature-card {
+    width: 100%;
+    max-width: 300px;
+    margin: 20px auto;
+  }
+  
+  .feature-icon {
+    /* アイコンのスタイル */
+  }
+  
+  .feature-title {
+    /* タイトルのスタイル */
+  }
+  
+  .feature-description {
+    /* 説明文のスタイル */
+  }
+  
+  .feature-image {
+    /* 画像のスタイル */
+  }
+  
